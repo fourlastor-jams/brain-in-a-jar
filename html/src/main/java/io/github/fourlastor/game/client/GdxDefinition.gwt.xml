@@ -16,7 +16,6 @@
 	<inherits name="io.github.fourlastor.GdxGame" />
 	<inherits name="io.github.fourlastor.Harlequin" />
 	<inherits name="io.github.fourlastor.HarlequinAshley" />
-	<inherits name="io.github.fourlastor.JsonParser" />
 	<entry-point class="io.github.fourlastor.game.client.HtmlLauncher" />
 	<set-configuration-property name="xsiframe.failIfScriptTag" value="FALSE"/>
 	<set-configuration-property name="gdx.assetpath" value="../assets" />

@@ -5,7 +5,6 @@ import io.github.fourlastor.game.intro.IntroComponent;
 
 @Module(
         subcomponents = {
-                IntroComponent.class,
+            IntroComponent.class,
         })
-public class ScreensModule {
-}
+public class ScreensModule {}

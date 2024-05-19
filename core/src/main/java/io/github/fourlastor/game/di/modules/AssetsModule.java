@@ -14,7 +14,6 @@ public class AssetsModule {
     private static final String PATH_TEXTURE_ATLAS = "images/packed/images.pack.atlas";
     public static final String WHITE_PIXEL = "white-pixel";
 
-
     @Provides
     @Singleton
     public AssetManager assetManager() {
